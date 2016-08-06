@@ -1,0 +1,28 @@
+name: Shirt/Shave
+favicon: null
+layout_spectrum: 0.8255266980268061
+typography_spectrum: 0.30306100146844983
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3053304753266275
+  lightness: 0.1538711115717888
+  saturation: 0.3534130936022848
+  rhythmicContrast: 0.0032492836471647024
+purpose: []
